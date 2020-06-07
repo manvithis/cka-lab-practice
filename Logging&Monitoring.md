@@ -19,7 +19,7 @@ kubernetes.io > Documentation > Reference > [logs](https://kubernetes.io/docs/re
 
 ```bash
 $ git clone https://github.com/kubernetes-incubator/metrics-server.git
-$ kubectl creare -f deploy/1.8+/
+$ kubectl create -f deploy/1.8+/
 $ kubectl top node
 $ kubectl top pod
 ```
